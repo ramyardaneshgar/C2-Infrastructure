@@ -1,8 +1,5 @@
 # THM-Writeup-C2
 
-**TryHackMe C2 Lab**
-
-Comprehensive walkthrough covering C2 infrastructure setup, payload generation, listener configuration, exploitation, and OPSEC techniques using Metasploit and Armitage.
 By **Ramyar Daneshgar**
 
 ---
