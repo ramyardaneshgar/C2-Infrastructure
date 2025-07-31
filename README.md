@@ -6,7 +6,7 @@ By Ramyar Daneshgar
 
 ## Task 1: Introduction
 
-I began this room to deepen my understanding of Command and Control (C2) frameworks. These frameworks are used to manage compromised hosts, maintain persistent access, and coordinate post-exploitation activities during red team operations and adversary emulation engagements. The room introduces concepts ranging from basic architecture to advanced OPSEC practices for stealth and resilience.
+Command and Control (C2) frameworks are used to manage compromised hosts, maintain persistent access, and coordinate post-exploitation activities during red team operations and adversary emulation engagements. The room introduces concepts ranging from basic architecture to advanced OPSEC practices for stealth and resilience.
 
 ---
 
